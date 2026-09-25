@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Aaron Iglesias!
 
----
-
 I'm an Information Technology graduate interested in fields such as **IT support & network, Data Analytics, QA, and Cybersecurity**. I am curious about these fields and continuously building my knowledge and technical skills through projects and labs.
 
 ---
