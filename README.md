@@ -6,11 +6,15 @@ I'm an Information Technology graduate interested in fields such as **IT support
 
 ### 🛠️ Skills & Technologies
 
-**Languages:** Python · SQL 
-**Systems:** Windows · Linux · Hardware & Software Troubleshooting
-**Networking:** Basic Networking · TCP/IP Fundamentals · Wi-Fi Configuration
-**Cybersecurity:** Security Fundamentals · Network Security · Risk Assessment · Threat & Vulnerability Concepts
-**Tools:** Git · GitHub · Microsoft Office
+* **Languages:** Python · SQL 
+
+* **Systems:** Windows · Linux · Hardware & Software Troubleshooting
+
+* **Networking:** Basic Networking · TCP/IP Fundamentals · Wi-Fi Configuration
+
+* **Cybersecurity:** Security Fundamentals · Network Security · Risk Assessment · Threat & Vulnerability Concepts
+
+* **Tools:** Git · GitHub · Microsoft Office
 
 ---
 
