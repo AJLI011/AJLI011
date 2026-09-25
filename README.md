@@ -4,54 +4,23 @@ I'm an Information Technology graduate interested in fields such as **IT support
 
 ---
 
-**Programming & Databases**
-
-* Python
-* SQL
-* Git & GitHub
-
----
-* Python
 ### 🛠️ Skills & Technologies
 
-**IT & Systems**
-
-* Windows
-* Linux
-* Hardware & Software Troubleshooting
-* Basic Networking
-* Active Directory *(learning)*
-* System Administration *(learning)*
-
-**Cybersecurity**
-
-* Security Fundamentals
-* Network Security
-* Risk Assessment
-* Vulnerability & Threat Concepts
-* Security Awareness
-
-
-
-### 📚 Currently Learning
-
-* Active Directory & Windows Server
-* Network Administration
-* Server Administration
-* PowerShell
-* Cybersecurity Fundamentals
-* Networking Fundamentals
-
-
-My long-term goal is to build a career in **cybersecurity** while developing a strong foundation in IT infrastructure and system administration.
-
-### 📫 Connect With Me
-
-* 💼 LinkedIn: [Your LinkedIn]
-* 📧 Email: [Your Email]
-* 🐙 GitHub: [Your GitHub]
+**Languages:** Python · SQL 
+**Systems:** Windows · Linux · Hardware & Software Troubleshooting
+**Networking:** Basic Networking · TCP/IP Fundamentals · Wi-Fi Configuration
+**Cybersecurity:** Security Fundamentals · Network Security · Risk Assessment · Threat & Vulnerability Concepts
+**Tools:** Git · GitHub · Microsoft Office
 
 ---
+
+### ℹ️ Facts about me 
+* I have 2 dogs, one energetic Jack Russell Terrier and one lovable Mix poodle 🐶
+* I am a running enthusiast 🏃🏾‍♂️‍➡️
+* I love sketching people and places on my free time ✍🏽
+
+---
+Always learning, building, and troubleshooting. One problem at a time. 🔧
 
 
 
