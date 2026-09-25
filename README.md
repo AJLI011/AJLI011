@@ -18,8 +18,10 @@ I'm an Information Technology graduate interested in fields such as **IT support
 * I have 2 dogs, one energetic Jack Russell Terrier and one lovable Mix poodle 🐶
 * I am a running enthusiast 🏃🏾‍♂️‍➡️
 * I love sketching people and places on my free time ✍🏽
+* I've tried various sports but I love playing table tennis the most 🏓
 
 ---
+
 Always learning, building, and troubleshooting. One problem at a time. 🔧
 
 
